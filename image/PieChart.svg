@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.47" height="37.469" viewBox="0 0 37.47 37.469">
+  <defs>
+    <style>
+      .cls-1 {
+        fill-rule: evenodd;
+        filter: url(#filter);
+      }
+    </style>
+    <filter id="filter" x="1231.28" y="673.25" width="37.47" height="37.469" filterUnits="userSpaceOnUse">
+      <feFlood result="flood" flood-color="#a1f1ff"/>
+      <feComposite result="composite" operator="in" in2="SourceGraphic"/>
+      <feBlend result="blend" in2="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="PieChart_copy" data-name="PieChart copy" class="cls-1" d="M1252.34,689.664V673.247a16.415,16.415,0,0,1,16.41,16.417h-16.41Zm1.16-14.1V688.5h12.93A14.058,14.058,0,0,0,1253.5,675.569Zm12.8,16.518c0.02,0.362.06,0.72,0.06,1.087a17.535,17.535,0,1,1-17.53-17.532c0.36,0,.72.032,1.08,0.055h0.1v16.3h16.29v0.094Zm-17.49,1.1V678.371a14.8,14.8,0,1,0,14.82,14.818h-14.82Z" transform="translate(-1231.28 -673.25)"/>
+</svg>
